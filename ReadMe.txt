@@ -1,0 +1,2 @@
+"Single_linked_list.cpp" contains source code for creation of single linked list and functions to implement various operations on it.
+"stack.cpp" contains source code for stack implementation and various operations related to it.
